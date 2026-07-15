@@ -1,4 +1,4 @@
-# Cześć, jestem Kacper 👋
+# Cześć, jestem Kacper
 
 Jestem aspirującym inżynierem oprogramowania i specjalistą QA Automation. Łączę techniczne podejście do budowania aplikacji (FullStack) z rygorystycznym dbaniem o jakość oprogramowania i automatyzację testów.
 
